@@ -14,7 +14,9 @@ hr { border:0.5px dotted gray !important; }
 - **学历：** 西北工业大学  软件工程（本科）  2006级  
 - **手机号码：** 18085192480  
 - **电子邮箱：** 42550564@qq.com
-- **Github 地址**：[https://github.com/remobile](https://github.com/remobile)
+- **Github 地址1**：[https://github.com/remobile](https://github.com/remobile)
+- **Github 地址2**：[https://github.com/fov42550564](https://github.com/fov42550564)
+- **个人主页**：[https://blogoo.github.io/home](https://blogoo.github.io/home)
 
 :::
 
