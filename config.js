@@ -1,6 +1,8 @@
+const resumePlugins = require('./lib/resumePlugins');
+
 const config = {
-    projectName: 'home',
-    title: '方运江个人官网',
+    projectName: 'personal',
+    title: '个人资料',
     favicon: 'img/favicon.ico',
     logo: 'img/logo.png',
     colors: {
@@ -12,6 +14,7 @@ const config = {
     highlight: {
         theme: 'solarized-dark'
     },
+    markdownPlugins: [resumePlugins],
     documentPath: 'docs', //默认为docs
     styles: [],
     scripts: [],

@@ -8,5 +8,6 @@ pids
 .idea
 .tmp
 package-lock.json
+package.json
 node_modules
 /build
