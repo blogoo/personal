@@ -28,12 +28,6 @@ const config = {
             props: { className: 'resumeContainer' },
         }
     },
-    menus: [
-        {
-            name: '首页',
-            mainPage: '/home',
-        },
-    ]
 };
 
 module.exports = config;
